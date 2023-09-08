@@ -1,0 +1,22 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        background: var(--body);
+    }
+
+    :root{
+        /*FONTS*/
+        --Heebo-font:'Heebo', sans-serif;
+        --Montserrat:'Montserrat', sans-serif;
+
+        /*COLOURS*/
+        --main: #00008b;
+        --main2: #f0f8ff;
+        --light: #f1f8ff;
+        --primary: #fea116;
+        --dark: #0f172b;
+        --body: #f4f4f4;
+    }
+
