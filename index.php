@@ -51,16 +51,16 @@
                         <div class="carousel-item active">
                             <img src="Imgs/Background_1.jpg" alt="" class="w-100">
                                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center bg-transparent">
-                                    <div class="p-3" style="max-width: 700px;">
-                                        <h6 class="section-title text-dark text-uppercase mb-3 animated slideInDown">
+                                    <div class="p-3" style="max-width: 700px; background: rgba(15, 23,43, 0.7); border: solid aliceblue 1px";">
+                                        <h6 class="section-title text-light text-uppercase mb-3 animated slideInDown" style="background:transparent; font-family: var(--Montserrat); letter-spacing: 7px;">
                                             indulge in the exquisite.
                                         </h6>
 
-                                            <h1 class="display-3 text-dark text-capitalize mb-4 animated slideInDown bg-transparent">
+                                            <h1 class="display-3 text-white text-capitalize mb-4 animated slideInDown bg-transparent">
                                                 feel the warmth of hospitality.
                                             </h1>
 
-                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight">
+                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500">
                                             book a room
                                         </a>
 
@@ -70,42 +70,42 @@
 
                         <div class="carousel-item">
                             <img src="Imgs/Background_2.jpg" alt="" class="w-100">
-                            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center bg-transparent">
-                                <div class="p-3" style="max-width: 700px;">
-                                    <h6 class="section-title text-dark text-uppercase mb-3 animated slideInDown">
-                                        indulge in the exquisite.
-                                    </h6>
+                                <div class="carousel-caption d-flex flex-column align-items-center justify-content-center bg-transparent" style=" background: rgba(15, 23,43, 0.7);">
+                                    <div class="p-3" style="max-width: 700px; background: rgba(15, 23,43, 0.7); border-bottom-right-radius: 0px; border: solid aliceblue 1px";>
+                                        <h6 class="section-title text-light text-uppercase mb-3 animated slideInDown" style="background:transparent; font-family: var(--Montserrat); letter-spacing: 7px;">
+                                            your exclusive escape.
+                                        </h6>
 
-                                    <h1 class="display-3 text-dark text-capitalize mb-4 animated slideInDown bg-transparent">
-                                        feel the warmth of hospitality.
-                                    </h1>
+                                        <h1 class="display-3 text-white text-capitalize mb-4 animated slideInDown bg-transparent">
+                                            the ultimate getaway destination.
+                                        </h1>
 
-                                    <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight">
-                                        book a room
-                                    </a>
+                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500">
+                                            book a room
+                                        </a>
 
+                                    </div>
                                 </div>
-                            </div>
                         </div>
 
                         <div class="carousel-item">
                             <img src="Imgs/Background_4.jpg" alt="" class="w-100">
-                            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center bg-transparent">
-                                <div class="p-3" style="max-width: 700px;">
-                                    <h6 class="section-title text-dark text-uppercase mb-3 animated slideInDown">
-                                        indulge in the exquisite.
-                                    </h6>
+                                <div class="carousel-caption d-flex flex-column align-items-center justify-content-center bg-transparent">
+                                    <div class="p-3" style="max-width: 700px; background: rgba(15, 23,43, 0.7); border: solid aliceblue 1px";">
+                                        <h6 class="section-title text-light text-uppercase mb-3 animated slideInDown" style="background:transparent; font-family: var(--Montserrat); letter-spacing: 7px;">
+                                            surrender to serenity.
+                                        </h6>
 
-                                    <h1 class="display-3 text-dark text-capitalize mb-4 animated slideInDown bg-transparent">
-                                        feel the warmth of hospitality.
-                                    </h1>
+                                        <h1 class="display-3 text-white text-capitalize mb-4 animated slideInDown bg-transparent">
+                                            your comfort is our mission.
+                                        </h1>
 
-                                    <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight">
-                                        book a room
-                                    </a>
+                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500">
+                                            book a room
+                                        </a>
 
+                                    </div>
                                 </div>
-                            </div>
                         </div>
 
                     </div>
@@ -116,7 +116,7 @@
                     </button>
 
 
-                    <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
+                    <button class="carousel-control-next red" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
                         <span class="carousel-control-next-icon"></span>
                         <span class="visually-hidden">Next</span>
                     </button>
