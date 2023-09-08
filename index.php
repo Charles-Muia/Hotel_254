@@ -80,7 +80,7 @@
                                             the ultimate getaway destination.
                                         </h1>
 
-                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500">
+                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500;">
                                             book a room
                                         </a>
 
