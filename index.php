@@ -131,7 +131,25 @@
             </div>
         </div>
 
+<!-----BOOKING-SECTION------------------------------------------------------------------------------------------------->
 
+        <div class="container-fluid booking pb-5 fadeIn">
+            <div class="container">
+                <div class="bg-white shadow" style= "padding: 35px">
+                    <div class="row g-2">
+                        <div class="col-md-10">
+                            <div class="row g-2">
+                                <div class="col-md-3">
+                                    <div class="date" id="date1" data-target-input ="nearest">
+                                        <input type="text" class="form-control datetimepicker-input" placeholder="Check In" data-target="date1" date-toggle="datetimepicker">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 <!-----JS------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
