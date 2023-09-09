@@ -60,7 +60,7 @@
                                                 feel the warmth of hospitality.
                                             </h1>
 
-                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500">
+                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500; background: rgba(255,0,0,0.3);">
                                             book a room
                                         </a>
 
@@ -80,7 +80,7 @@
                                             the ultimate getaway destination.
                                         </h1>
 
-                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500;">
+                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500; background: rgba(255,0,0,0.3);">
                                             book a room
                                         </a>
 
@@ -100,7 +100,7 @@
                                             your comfort is our mission.
                                         </h1>
 
-                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500">
+                                        <a href="#" class="btn btn-dark text-uppercase py-md-3 px-md-5 animated slideInRight" style="letter-spacing: 2px; font-weight: 500; background: rgba(255,0,0,0.3);">
                                             book a room
                                         </a>
 
