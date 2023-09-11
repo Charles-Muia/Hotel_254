@@ -212,7 +212,7 @@
                         </h6>
 
                         <h1 class="mb-4" style="font-family: var(--Montserrat); font-size: 30px;">
-                            <span class="text-primary text-capitalize">welcome </span> To Where Adventure Meets <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Comfort</span> <i class="bi bi-dash-lg"></i>
+                            <span class="text-primary text-capitalize">welcome </span> To Where Adventure <br> Meets <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Comfort</span> <i class="bi bi-dash-lg"></i>
                         </h1>
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, amet, illum? A beatae, blanditiis
                                 consectetur consequatur dolorem illum laborum necessitatibus
@@ -255,10 +255,32 @@
                                         </div>
                                     </div>
                                 </div>
+                            </div>
 
+                        <a href="" class="btn btn-dark py-3 px-5 mt-2">Awaken To Paradise</a>
+
+                  </div>
+                        <div class="col-lg-6 pt-5">
+                            <div class="row g-3">
+
+                                <div class="col-6 text-end">
+                                    <img src="Imgs/About_6.jpg" alt="" class="img-fluid rounded w-75 wow zoomIn" style="margin-top: 25%">
+                                </div>
+
+                                <div class="col-6 text-start">
+                                    <img src="Imgs/About_3.jpg" alt="" class="img-fluid rounded w-99 wow zoomIn">
+                                </div>
+
+                                <div class="col-6 text-end">
+                                    <img src="Imgs/About_4.jpg" alt="" class="img-fluid rounded w-50 wow zoomIn">
+                                </div>
+
+                                <div class="col-6 text-start">
+                                    <img src="Imgs/About_7.jpg" alt="" class="img-fluid rounded w-75 wow zoomIn">
+                                </div>
 
                             </div>
-                  </div>
+                        </div>
               </div>
           </div>
       </div>
