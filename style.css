@@ -58,4 +58,20 @@
         height: 3rem;
     }
 
+/*-----BOOKING-SECTION------------------------------------------------------------------------------------------------*/
+
+    .booking {
+        position: relative;
+        margin-top: -100px !important;
+        z-index: 1;
+    }
+
+    .w-199 {
+        width: 100%;
+    }
+
+    select {
+        text-transform: uppercase;
+    }
+
 

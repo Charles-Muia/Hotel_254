@@ -20,6 +20,9 @@
     <!--    ---BOOTSTRAP-5------>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css">
 
+    <!--    ---BOOTSTRAP-ICONS------>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
     <!--    ---BOX-ICONS------>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
 
@@ -138,20 +141,69 @@
                 <div class="bg-white shadow" style= "padding: 35px">
                     <div class="row g-2">
                         <div class="col-md-10">
-                            <div class="row g-2">
+                            <div class="row g-2 pb-2">
+
                                 <div class="col-md-3">
                                     <div class="date" id="date1" data-target-input ="nearest">
                                         <input type="text" class="form-control datetimepicker-input" placeholder="Check In" data-target="date1" date-toggle="datetimepicker">
                                     </div>
                                 </div>
+
+                                <div class="col-md-3">
+                                    <div class="date" id="date1" data-target-input ="nearest">
+                                        <input type="text" class="form-control datetimepicker-input" placeholder="Check Out" data-target="date2" date-toggle="datetimepicker">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <select name="" id="" class="form-select">
+                                        <option value="" selected style="">Adult</option>
+                                        <option value="">Adult 1</option>
+                                        <option value="">Adult 2</option>
+                                        <option value="">Adult 3</option>
+                                    </select>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <select name="" id="" class="form-select">
+                                        <option value="" selected style="">Child</option>
+                                        <option value="">Child 1</option>
+                                        <option value="">Child 2</option>
+                                        <option value="">Child 3</option>
+                                    </select>
+                                </div>
+
                             </div>
                         </div>
+
+                                <div class="col-md-2">
+                                    <button class="btn btn-primary w-199 bg-dark text-light center" style="text-transform: uppercase; font-weight: 500;">submit</button>
+                                </div>
+
                     </div>
                 </div>
             </div>
         </div>
 
-<!-----JS------------------------------------------------------------------------------------------------------------->
+<!-----ABOUT-SECTION--------------------------------------------------------------------------------------------------->
+
+      <div class="container-eel py-5">
+          <div class="container">
+              <div class="row g-5 align-items-center">
+                  <div class="col-lg-6">
+                        <h6 class="pt-5 section-title text-start text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;">
+                                about us
+                        </h6>
+
+                        <h1 class="mb-4" style="font-family: var(--Montserrat); font-size: 30px;">
+                            <span class="text-primary text-capitalize">welcome </span> To Where Adventure Meets <span class="text-primary text-capitalize">Comfort</span> <i class="bi bi-dash-lg"></i>
+                        </h1>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+        <!-----JS------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js"></script>
 
