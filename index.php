@@ -37,6 +37,22 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
 </head>
 <body>
 
@@ -209,8 +225,8 @@
                                         <div class="border rounded text-center p-4">
                                             <i class="fa fa-hotel fa-2x text-primary mb-2"></i>
 
-                                            <h2 class="mb-1" data-toggle="counter-up">350</h2>
-                                            <p class="mb-0">Our Rooms</p>
+                                            <h2 class="mb-1" data-toggle="counter-up" style="font-family: var(--Montserrat)";>350</h2>
+                                            <p class="mb-0" style= "font-family:'Fira Sans', sans-serif;">Our Rooms</p>
 
                                         </div>
                                     </div>
@@ -221,8 +237,8 @@
                                         <div class="border rounded text-center p-4">
                                             <i class="fa fa-users-cog fa-2x text-primary mb-2"></i>
 
-                                            <h2 class="mb-1" data-toggle="counter-up">150</h2>
-                                            <p class="mb-0">Our Staff</p>
+                                            <h2 class="mb-1" data-toggle="counter-up" style="font-family: var(--Montserrat)";>150</h2>
+                                            <p class="mb-0" style= "font-family:'Fira Sans', sans-serif;">Our Staff</p>
 
                                         </div>
                                     </div>
@@ -233,8 +249,8 @@
                                         <div class="border rounded text-center p-4">
                                             <i class="fa fa-users fa-2x text-primary mb-2"></i>
 
-                                            <h2 class="mb-1" data-toggle="counter-up">1500</h2>
-                                            <p class="mb-0">Our Clients</p>
+                                            <h2 class="mb-1" data-toggle="counter-up" style="font-family: var(--Montserrat)";>1500</h2>
+                                            <p class="mb-0" style= "font-family:'Fira Sans', sans-serif";>Our Clients</p>
 
                                         </div>
                                     </div>
