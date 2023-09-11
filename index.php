@@ -136,7 +136,7 @@
 
 <!-----BOOKING-SECTION------------------------------------------------------------------------------------------------->
 
-        <div class="container-fluid booking pb-5 fadeIn">
+        <div class="container-fluid booking pb-5 pt-5 fadeIn">
             <div class="container">
                 <div class="bg-white shadow" style= "padding: 35px">
                     <div class="row g-2">
@@ -196,8 +196,52 @@
                         </h6>
 
                         <h1 class="mb-4" style="font-family: var(--Montserrat); font-size: 30px;">
-                            <span class="text-primary text-capitalize">welcome </span> To Where Adventure Meets <span class="text-primary text-capitalize">Comfort</span> <i class="bi bi-dash-lg"></i>
+                            <span class="text-primary text-capitalize">welcome </span> To Where Adventure Meets <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Comfort</span> <i class="bi bi-dash-lg"></i>
                         </h1>
+                            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, amet, illum? A beatae, blanditiis
+                                consectetur consequatur dolorem illum laborum necessitatibus
+                                possimus quibusdam quisquam temporibus voluptate.</p>
+
+                            <div class="row g-3 pb-4">
+
+                                <div class="col-sm-4 wow fadeIn">
+                                    <div class="border rounded p-1">
+                                        <div class="border rounded text-center p-4">
+                                            <i class="fa fa-hotel fa-2x text-primary mb-2"></i>
+
+                                            <h2 class="mb-1" data-toggle="counter-up">350</h2>
+                                            <p class="mb-0">Our Rooms</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4 wow fadeIn">
+                                    <div class="border rounded p-1">
+                                        <div class="border rounded text-center p-4">
+                                            <i class="fa fa-users-cog fa-2x text-primary mb-2"></i>
+
+                                            <h2 class="mb-1" data-toggle="counter-up">150</h2>
+                                            <p class="mb-0">Our Staff</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4 wow fadeIn">
+                                    <div class="border rounded p-1">
+                                        <div class="border rounded text-center p-4">
+                                            <i class="fa fa-users fa-2x text-primary mb-2"></i>
+
+                                            <h2 class="mb-1" data-toggle="counter-up">1500</h2>
+                                            <p class="mb-0">Our Clients</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
                   </div>
               </div>
           </div>
