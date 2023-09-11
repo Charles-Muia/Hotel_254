@@ -207,7 +207,7 @@
           <div class="container">
               <div class="row g-5 align-items-center">
                   <div class="col-lg-6">
-                        <h6 class="pt-5 section-title text-start text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;">
+                        <h6 class="pt-5 pb-4 section-title text-start text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;">
                                 about us
                         </h6>
 
@@ -222,11 +222,11 @@
 
                                 <div class="col-sm-4 wow fadeIn">
                                     <div class="border rounded p-1">
-                                        <div class="border rounded text-center p-4">
-                                            <i class="fa fa-hotel fa-2x text-primary mb-2"></i>
+                                        <div class="border rounded text-center p-4" >
+                                            <i class="fa fa-hotel fa-2x mb-2" style="color: red"></i>
 
                                             <h2 class="mb-1" data-toggle="counter-up" style="font-family: var(--Montserrat)";>350</h2>
-                                            <p class="mb-0" style= "font-family:'Fira Sans', sans-serif;">Our Rooms</p>
+                                            <p class="mb-0 text-danger" style= "font-family:'Fira Sans', sans-serif;">Our Rooms</p>
 
                                         </div>
                                     </div>
@@ -235,10 +235,10 @@
                                 <div class="col-sm-4 wow fadeIn">
                                     <div class="border rounded p-1">
                                         <div class="border rounded text-center p-4">
-                                            <i class="fa fa-users-cog fa-2x text-primary mb-2"></i>
+                                            <i class="fa fa-users-cog fa-2x mb-2" style="color: red"></i>
 
                                             <h2 class="mb-1" data-toggle="counter-up" style="font-family: var(--Montserrat)";>150</h2>
-                                            <p class="mb-0" style= "font-family:'Fira Sans', sans-serif;">Our Staff</p>
+                                            <p class="mb-0 text-danger" style= "font-family:'Fira Sans', sans-serif;">Our Staff</p>
 
                                         </div>
                                     </div>
@@ -247,10 +247,10 @@
                                 <div class="col-sm-4 wow fadeIn">
                                     <div class="border rounded p-1">
                                         <div class="border rounded text-center p-4">
-                                            <i class="fa fa-users fa-2x text-primary mb-2"></i>
+                                            <i class="fa fa-users fa-2x mb-2" style="color: red"></i>
 
                                             <h2 class="mb-1" data-toggle="counter-up" style="font-family: var(--Montserrat)";>1500</h2>
-                                            <p class="mb-0" style= "font-family:'Fira Sans', sans-serif";>Our Clients</p>
+                                            <p class="mb-0 text-danger" style= "font-family:'Fira Sans', sans-serif;">Our Clients</p>
 
                                         </div>
                                     </div>

@@ -1,17 +1,17 @@
 
-    *{
+    * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
         background: var(--body);
     }
 
-    :root{
+    :root {
         /*FONTS*/
-        --Heebo-font:'Heebo', sans-serif;
-        --Montserrat:'Montserrat', sans-serif;
+        --Heebo-font: 'Heebo', sans-serif;
+        --Montserrat: 'Montserrat', sans-serif;
         --Raleway: 'Raleway', sans-serif;
-        --Ubuntu:  'Ubuntu', sans-serif;
+        --Ubuntu: 'Ubuntu', sans-serif;
         --Roboto: 'Roboto', sans-serif;
 
         /*COLOURS*/
@@ -21,6 +21,7 @@
         --primary: #fea116;
         --dark: #0f172b;
         --body: #f4f4f4;
+        --red: #dc143d;
     }
 
 
@@ -61,7 +62,7 @@
         height: 3rem;
     }
 
-/*-----BOOKING-SECTION------------------------------------------------------------------------------------------------*/
+/*-----BOOKING-SECTION-CSS--------------------------------------------------------------------------------------------*/
 
     .booking {
         position: relative;
@@ -77,4 +78,5 @@
         text-transform: uppercase;
     }
 
+/*-----ABOUT-SECTION-CSS----------------------------------------------------------------------------------------------*/
 
