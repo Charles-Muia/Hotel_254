@@ -53,6 +53,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@100&display=swap" rel="stylesheet">
+
 </head>
 <body>
 
@@ -289,7 +293,7 @@
 <!-----ROOMS-SECTION--------------------------------------------------------------------------------------------------->
 
       <div class="container-xxl py-5 bg-white" id="rooms" style="margin-top: 100px; background: var(--white);">
-            <div class="container" style="background: var(--white)">
+            <div class="container" style="background: var(--white); margin-bottom: 100px;">
                 <div class="text-center wow fadeIn bg-white">
                     <h6 class="section-title text-center text-primary text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px; background: var(--white);">
                         our rooms
@@ -298,9 +302,10 @@
                         <span class="text-primary text-capitalize"> </span> Stay In Splendor. <br> Be Our <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Guest</span>
                     </h1>
 
-                    <div class="row g-4">
+                    <div class="row g-4 pb-4 rounded shadow-lg p-3 mb-5 bg-white rounded"">
+
                         <div class="col-lg-4 col-md-6 wow fadeInUp">
-                            <div class="rooms-item shadow rounded-0 overflow-hidden">
+                            <div class="rooms-item shadow rounded overflow-hidden">
                                 <div class="position-relative">
                                     <img src="Imgs/Room_1.jpg" alt="" class="img-fliud">
                                         <small class="position-absolute start-0 top-100 translate-middle-y bg-danger text-white rounded px-3 ms-4">
@@ -313,9 +318,9 @@
                                             <h5 class="mb-0 text-capitalise">Single Suite</h5>
                                                 <div class="ps-2">
                                                     <small class="fa fa-star" style="color: var(--red)"></small>
-                                                    <small class="fa fa-star text-black-50"></small>
-                                                    <small class="fa fa-star text-black-50"></small>
-                                                    <small class="fa fa-star text-black-50"></small>
+                                                    <small class="fa fa-star" style="color: var(--red)"></small>
+                                                    <small class="fa fa-star" style="color: var(--red)"></small>
+                                                    <small class="fa fa-star" style="color: var(--red)"></small>
                                                     <small class="fa fa-star text-black-50"></small>
                                                 </div>
                                         </div>
@@ -325,19 +330,92 @@
                                                     <small class="border-end me-3 pe-3"><i class="fa fa-bath me-2" style="color: var(--red)" > 1 Bath </i> </small>
                                                         <small class="border-end me-3 pe-3"><i class="fa fa-wifi me-2" style="color: var(--red)" > WIFI </i> </small>
                                                              <small><i class="fa fa-tv me-2" style="color: var(--red)" > TV </i> </small>
-
-
                                             </div>
 
+                                                <p class="text-body mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus inventore mollitia natus quia, ullam voluptate?</p>
+                                                    <div class="d-flex justify-content-between">
+                                                        <a href="" class="btn btn-sm btn-danger rounded py-2 px-4 bg-dark text-uppercase" style="font-family: var(--Ubuntu);">view details</a>
+                                                        <a href="" class="btn btn-sm btn-danger rounded py-2 px-4 bg-dark text-uppercase" style="font-family: var(--Ubuntu);">book now</a>
+                                                    </div>
                                     </div>
-
-
                             </div>
-
                         </div>
 
+                    <div class="col-lg-4 col-md-6 wow fadeInUp">
+                        <div class="rooms-item shadow rounded overflow-hidden">
+                            <div class="position-relative">
+                                <img src="Imgs/Room_3.jpg" alt="" class="img-fliud">
+                                <small class="position-absolute start-0 top-100 translate-middle-y bg-danger text-white rounded px-3 ms-4">
+                                    KES 2,500/Night
+                                </small>
+                            </div>
+
+                            <div class="p-4 mt-2">
+                                <div class="d-flex justify-content-between mb-3">
+                                    <h5 class="mb-0 text-capitalise">Deluxe Studio</h5>
+                                    <div class="ps-2">
+                                        <small class="fa fa-star" style="color: var(--red)"></small>
+                                        <small class="fa fa-star" style="color: var(--red)"></small>
+                                        <small class="fa fa-star" style="color: var(--red)"></small>
+                                        <small class="fa fa-star" style="color: var(--red)"></small>
+                                        <small class="fa fa-star text-black-50"></small>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex justify-content-between mb-3 pt-2"  style="font-family: var(--Roboto);  font-size: 11px">
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-bed me-2" style="color: var(--red);" > 1 bed </i> </small>
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-bath me-2" style="color: var(--red)" > 1 Bath </i> </small>
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-wifi me-2" style="color: var(--red)" > WIFI </i> </small>
+                                    <small><i class="fa-solid fa-tv me-2" style="color: var(--red)" > TV </i> </small>
+                                </div>
+
+                                <p class="text-body mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus inventore mollitia natus quia, ullam voluptate?</p>
+                                <div class="d-flex justify-content-between">
+                                    <a href="" class="btn btn-sm btn-danger rounded py-2 px-4 bg-dark text-uppercase" style="font-family: var(--Ubuntu);">view details</a>
+                                    <a href="" class="btn btn-sm btn-danger rounded py-2 px-4 bg-dark text-uppercase" style="font-family: var(--Ubuntu);">book now</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
+                    <div class="col-lg-4 col-md-6 wow fadeInUp">
+                        <div class="rooms-item shadow rounded overflow-hidden">
+                            <div class="position-relative">
+                                <img src="Imgs/Room_4.jpg" alt="" class="img-fliud">
+                                <small class="position-absolute start-0 top-100 translate-middle-y bg-danger text-white rounded px-3 ms-4">
+                                    KES 2,500/Night
+                                </small>
+                            </div>
+
+                            <div class="p-4 mt-2">
+                                <div class="d-flex justify-content-between mb-3">
+                                    <h5 class="mb-0 text-capitalise">Queen Suite</h5>
+                                    <div class="ps-2">
+                                        <small class="fa fa-star" style="color: var(--red)"></small>
+                                        <small class="fa fa-star" style="color: var(--red)"></small>
+                                        <small class="fa fa-star" style="color: var(--red)"></small>
+                                        <small class="fa fa-star" style="color: var(--red)"></small>
+                                        <small class="fa fa-star text-black-50"></small>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex justify-content-between mb-3 pt-2"  style="font-family: var(--Roboto);  font-size: 11px">
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-bed me-2" style="color: var(--red);" > 1 bed </i> </small>
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-bath me-2" style="color: var(--red)" > 1 Bath </i> </small>
+                                    <small class="border-end me-3 pe-3"><i class="fa fa-wifi me-2" style="color: var(--red)" > WIFI </i> </small>
+                                    <small><i class="fa fa-tv me-2" style="color: var(--red)" > TV </i> </small>
+                                </div>
+
+                                <p class="text-body mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus inventore mollitia natus quia, ullam voluptate?</p>
+                                <div class="d-flex justify-content-between">
+                                    <a href="" class="btn btn-sm btn-danger rounded py-2 px-4 bg-dark text-uppercase" style="font-family: var(--Ubuntu);">view details</a>
+                                    <a href="" class="btn btn-sm btn-danger rounded py-2 px-4 bg-dark text-uppercase" style="font-family: var(--Ubuntu);">book now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    </div>
                 </div>
             </div>
       </div>
