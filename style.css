@@ -24,7 +24,6 @@
         --red: #dc143d;
     }
 
-
     .w-100 {
         height: 690px;
         width: 690px;
@@ -54,13 +53,41 @@
         width: 10%;
     }
 
-
     .carousel-control-next-icon,
     .carousel-control-prev-icon {
         background: transparent;
         width: 3rem;
         height: 3rem;
     }
+
+
+     .p-3 h6 {
+         position: relative;
+         display: inline-block;
+     }
+
+    .p-3 h6::before {
+        position: absolute;
+        content: '';
+        width: 35px;
+        height: 2px;
+        top: 50%;
+        left: -55px;
+        margin-top: -1px;
+        background: rgba(255,0,0,0.3);
+    }
+
+    .p-3 h6::after {
+        position: absolute;
+        content: '';
+        width: 40px;
+        height: 2px;
+        top: 50%;
+        right: -55px;
+        margin-top: -1px;
+        background: rgba(255,0,0,0.3);
+    }
+
 
 /*-----BOOKING-SECTION-CSS--------------------------------------------------------------------------------------------*/
 
@@ -80,3 +107,7 @@
 
 /*-----ABOUT-SECTION-CSS----------------------------------------------------------------------------------------------*/
 
+    .section-title {
+        position: relative;
+        display: inline-block;
+    }

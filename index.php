@@ -110,7 +110,7 @@
                         <div class="carousel-item">
                             <img src="Imgs/Background_4.jpg" alt="" class="w-100">
                                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center bg-transparent">
-                                    <div class="p-3" style="max-width: 700px; background: rgba(15, 23,43, 0.7); border: solid aliceblue 1px";">
+                                    <div class="p-3" style="max-width: 700px; background: rgba(15, 23,43, 0.7); border: solid aliceblue 1px;">
                                         <h6 class="section-title text-light text-uppercase mb-3 animated slideInDown" style="background:transparent; font-family: var(--Montserrat); letter-spacing: 7px;">
                                             surrender to serenity.
                                         </h6>
@@ -135,7 +135,7 @@
                     </button>
 
 
-                    <button class="carousel-control-next red" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
+                    <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
                         <span class="carousel-control-next-icon"></span>
                         <span class="visually-hidden">Next</span>
                     </button>
@@ -203,11 +203,11 @@
 
 <!-----ABOUT-SECTION--------------------------------------------------------------------------------------------------->
 
-      <div class="container-eel py-5">
+      <div class="container-eel py-5" id="about">
           <div class="container">
               <div class="row g-5 align-items-center">
                   <div class="col-lg-6">
-                        <h6 class="pt-5 pb-4 section-title text-start text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;">
+                        <h6 class="pt-5 pb-4 section-title text-start text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px">
                                 about us
                         </h6>
 
@@ -257,7 +257,7 @@
                                 </div>
                             </div>
 
-                        <a href="" class="btn btn-dark py-3 px-5 mt-2">Awaken To Paradise</a>
+                        <a href="" class="btn btn-dark py-3 px-5 mt-2 text-uppercase" style="font-weight: 600; font-family: var(--Roboto); letter-spacing: 2px">Beyond Hospitality</a>
 
                   </div>
                         <div class="col-lg-6 pt-5">
