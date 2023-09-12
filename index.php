@@ -315,7 +315,7 @@
 
                                     <div class="p-4 mt-2">
                                         <div class="d-flex justify-content-between mb-3">
-                                            <h5 class="mb-0 text-capitalise">Single Suite</h5>
+                                            <h5 class="mb-0 text-capitalise" style="font-family: var(--Ubuntu);">Single Suite</h5>
                                                 <div class="ps-2">
                                                     <small class="fa fa-star" style="color: var(--red)"></small>
                                                     <small class="fa fa-star" style="color: var(--red)"></small>
@@ -352,7 +352,7 @@
 
                             <div class="p-4 mt-2">
                                 <div class="d-flex justify-content-between mb-3">
-                                    <h5 class="mb-0 text-capitalise">Deluxe Studio</h5>
+                                    <h5 class="mb-0 text-capitalise" style="font-family: var(--Ubuntu);">Deluxe Studio</h5>
                                     <div class="ps-2">
                                         <small class="fa fa-star" style="color: var(--red)"></small>
                                         <small class="fa fa-star" style="color: var(--red)"></small>
@@ -389,7 +389,7 @@
 
                             <div class="p-4 mt-2">
                                 <div class="d-flex justify-content-between mb-3">
-                                    <h5 class="mb-0 text-capitalise">Queen Suite</h5>
+                                    <h5 class="mb-0 text-capitalise" style="font-family: var(--Ubuntu);">Queen Suite</h5>
                                     <div class="ps-2">
                                         <small class="fa fa-star" style="color: var(--red)"></small>
                                         <small class="fa fa-star" style="color: var(--red)"></small>
