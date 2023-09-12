@@ -298,6 +298,46 @@
                         <span class="text-primary text-capitalize"> </span> Stay In Splendor. <br> Be Our <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Guest</span>
                     </h1>
 
+                    <div class="row g-4">
+                        <div class="col-lg-4 col-md-6 wow fadeInUp">
+                            <div class="rooms-item shadow rounded-0 overflow-hidden">
+                                <div class="position-relative">
+                                    <img src="Imgs/Room_1.jpg" alt="" class="img-fliud">
+                                        <small class="position-absolute start-0 top-100 translate-middle-y bg-danger text-white rounded px-3 ms-4">
+                                            KES 2,500/Night
+                                        </small>
+                                </div>
+
+                                    <div class="p-4 mt-2">
+                                        <div class="d-flex justify-content-between mb-3">
+                                            <h5 class="mb-0 text-capitalise">Single Suite</h5>
+                                                <div class="ps-2">
+                                                    <small class="fa fa-star" style="color: var(--red)"></small>
+                                                    <small class="fa fa-star text-black-50"></small>
+                                                    <small class="fa fa-star text-black-50"></small>
+                                                    <small class="fa fa-star text-black-50"></small>
+                                                    <small class="fa fa-star text-black-50"></small>
+                                                </div>
+                                        </div>
+
+                                            <div class="d-flex justify-content-between mb-3 pt-2"  style="font-family: var(--Roboto);  font-size: 11px">
+                                                <small class="border-end me-3 pe-3"><i class="fa fa-bed me-2" style="color: var(--red);" > 1 bed </i> </small>
+                                                    <small class="border-end me-3 pe-3"><i class="fa fa-bath me-2" style="color: var(--red)" > 1 Bath </i> </small>
+                                                        <small class="border-end me-3 pe-3"><i class="fa fa-wifi me-2" style="color: var(--red)" > WIFI </i> </small>
+                                                             <small><i class="fa fa-tv me-2" style="color: var(--red)" > TV </i> </small>
+
+
+                                            </div>
+
+                                    </div>
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
       </div>
