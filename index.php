@@ -204,7 +204,7 @@
 <!-----ABOUT-SECTION--------------------------------------------------------------------------------------------------->
 
       <div class="container-eel py-5" id="about">
-          <div class="container">
+          <div class="container" style="margin-bottom: 100px">
               <div class="row g-5 align-items-center">
                   <div class="col-lg-6">
                         <h6 class="pt-5 pb-4 section-title text-start text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px">
@@ -214,6 +214,7 @@
                         <h1 class="mb-4" style="font-family: var(--Montserrat); font-size: 30px;">
                             <span class="text-primary text-capitalize">welcome </span> To Where Adventure <br> Meets <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Comfort</span> <i class="bi bi-dash-lg"></i>
                         </h1>
+
                             <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, amet, illum? A beatae, blanditiis
                                 consectetur consequatur dolorem illum laborum necessitatibus
                                 possimus quibusdam quisquam temporibus voluptate.</p>
@@ -284,6 +285,23 @@
               </div>
           </div>
       </div>
+
+<!-----ROOMS-SECTION--------------------------------------------------------------------------------------------------->
+
+      <div class="container-xxl py-5 bg-white" id="rooms" style="margin-top: 100px; background: var(--white);">
+            <div class="container" style="background: var(--white)">
+                <div class="text-center wow fadeIn bg-white">
+                    <h6 class="section-title text-center text-primary text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px; background: var(--white);">
+                        our rooms
+                    </h6>
+                    <h1 class="mb-4 pb-5" style="font-family: var(--Montserrat); font-size: 30px; background: var(--white)">
+                        <span class="text-primary text-capitalize"> </span> Stay In Splendor. <br> Be Our <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Guest</span>
+                    </h1>
+
+                </div>
+            </div>
+      </div>
+
 
         <!-----JS------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
