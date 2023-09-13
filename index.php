@@ -429,11 +429,104 @@
                         our services
                     </h6>
 
-                    <h1 class="mb-5 pb-5" style="font-family: var(--Montserrat); font-size: 30px;">
+                    <h1 class="mb-4 pb-5" style="font-family: var(--Montserrat); font-size: 30px;">
                         <span class="text-primary text-capitalize"> </span> Experience Elegance <br> In Every <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Stay</span>
                     </h1>
-
                 </div>
+
+                        <div class="row g-4">
+
+                            <div class="col-lg-4 col-md-6 wow fadeInUp">
+                                <a href="" class="service-item rounded">
+                                    <div class="service-icon bg-transparent border rounded p-1">
+                                        <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                        </div>
+                                    </div>
+
+                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                        <p class="text-body mb-0">
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
+                                        </p>
+                                </a>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 wow fadeInUp">
+                                <a href="" class="service-item rounded">
+                                    <div class="service-icon bg-transparent border rounded p-1">
+                                        <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                        </div>
+                                    </div>
+
+                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <p class="text-body mb-0">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
+                                    </p>
+                                </a>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 wow fadeInUp">
+                                <a href="" class="service-item rounded">
+                                    <div class="service-icon bg-transparent border rounded p-1">
+                                        <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                        </div>
+                                    </div>
+
+                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <p class="text-body mb-0">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
+                                    </p>
+                                </a>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 wow fadeInUp">
+                                <a href="" class="service-item rounded">
+                                    <div class="service-icon bg-transparent border rounded p-1">
+                                        <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                        </div>
+                                    </div>
+
+                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <p class="text-body mb-0">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
+                                    </p>
+                                </a>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 wow fadeInUp">
+                                <a href="" class="service-item rounded">
+                                    <div class="service-icon bg-transparent border rounded p-1">
+                                        <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                        </div>
+                                    </div>
+
+                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <p class="text-body mb-0">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
+                                    </p>
+                                </a>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 wow fadeInUp">
+                                <a href="" class="service-item rounded">
+                                    <div class="service-icon bg-transparent border rounded p-1">
+                                        <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                        </div>
+                                    </div>
+
+                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <p class="text-body mb-0">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
+                                    </p>
+                                </a>
+                            </div>
+
+                        </div>
             </div>
         </div>
 
