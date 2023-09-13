@@ -147,3 +147,59 @@
         transform: scale(1.1);
         transition: .5s ease;
     }
+
+/*-----SERVICES-SECTION-CSS-------------------------------------------------------------------------------------------*/
+
+    .service-item {
+        height: 320px;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        background: var(--light);
+        box-shadow: 0 0 45px rgba(0,0,0,0.08);
+        transition: 0.5s;
+    }
+
+    .service-item:hover {
+        background: tomato;
+        border: 1px;
+        transition: 0.5s;
+        transform: translate(0,-10px);
+
+    }
+
+    .service-item .service-icon {
+        margin: 0 auto 30px auto;
+        width: 75px;
+        height: 75px;
+        transition: 0.5s;
+    }
+
+
+    .service-item i,
+    .service-item h5,
+    .service-item p {
+        transition: 0.5s;
+        background: none;
+        color: #00008b;
+    }
+
+    .service-item:hover i,
+    .service-item:hover h5,
+    .service-item:hover p {
+        color: var(--white);
+        list-style: none;
+    }
+
+    .wow a {
+        text-decoration: none;
+        background: var(--white);
+        list-style: none;
+    }
+
+    .service-item i {
+        background: none;
+        border: none;
+    }

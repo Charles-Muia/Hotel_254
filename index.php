@@ -423,7 +423,7 @@
 <!-----SERVICES-SECTION------------------------------------------------------------------------------------------------>
 
         <div class="container-xxl py-5" style="background: var(--body); margin-top: 40px">
-            <div class="container">
+            <div class="container pt-5">
                 <div class="text-center wow fadeInUp pt-5">
                     <h6 class="section-title text-center text-primary text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px;">
                         our services
@@ -440,11 +440,11 @@
                                 <a href="" class="service-item rounded">
                                     <div class="service-icon bg-transparent border rounded p-1">
                                         <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                            <i class="fa fa-hotel fa-3x" style="color: red"></i>
                                         </div>
                                     </div>
 
-                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <h5 class="mb-3" style="font-family: var(--Ubuntu)">Rooms & Apartments</h5>
                                         <p class="text-body mb-0">
                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
                                         </p>
@@ -455,11 +455,11 @@
                                 <a href="" class="service-item rounded">
                                     <div class="service-icon bg-transparent border rounded p-1">
                                         <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                            <i class="fa fa-cutlery fa-3x" style="color: red"></i>
                                         </div>
                                     </div>
 
-                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <h5 class="mb-3" style="font-family: var(--Ubuntu)">Rooms & Apartments</h5>
                                     <p class="text-body mb-0">
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
                                     </p>
@@ -470,11 +470,11 @@
                                 <a href="" class="service-item rounded">
                                     <div class="service-icon bg-transparent border rounded p-1">
                                         <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                            <i class="fa fa-glass-cheers fa-3x" style="color: red"></i>
                                         </div>
                                     </div>
 
-                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <h5 class="mb-3" style="font-family: var(--Ubuntu)">Rooms & Apartments</h5>
                                     <p class="text-body mb-0">
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
                                     </p>
@@ -485,11 +485,11 @@
                                 <a href="" class="service-item rounded">
                                     <div class="service-icon bg-transparent border rounded p-1">
                                         <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                            <i class="fa fa-users fa-3x" style="color: red;"></i>
                                         </div>
                                     </div>
 
-                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <h5 class="mb-3" style="font-family: var(--Ubuntu)">Rooms & Apartments</h5>
                                     <p class="text-body mb-0">
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
                                     </p>
@@ -500,11 +500,11 @@
                                 <a href="" class="service-item rounded">
                                     <div class="service-icon bg-transparent border rounded p-1">
                                         <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                            <i class="fa fa-spa fa-3x" style="color: red"></i>
                                         </div>
                                     </div>
 
-                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <h5 class="mb-3" style="font-family: var(--Ubuntu)">Rooms & Apartments</h5>
                                     <p class="text-body mb-0">
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
                                     </p>
@@ -515,11 +515,11 @@
                                 <a href="" class="service-item rounded">
                                     <div class="service-icon bg-transparent border rounded p-1">
                                         <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                            <i class="fa fa-hotel fa-2x" style="color: red"></i>
+                                            <i class="fa fa-swimmer fa-3x" style="color: red"></i>
                                         </div>
                                     </div>
 
-                                    <h5 class="mb-3">Rooms & Apartments</h5>
+                                    <h5 class="mb-3" style="font-family: var(--Ubuntu)">Rooms & Apartments</h5>
                                     <p class="text-body mb-0">
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa eum explicabo laboriosam mollitia sed tenetur!
                                     </p>
