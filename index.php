@@ -532,8 +532,26 @@
 
 <!-----TESTIMONIAL-SECTION--------------------------------------------------------------------------------------------->
 
-        <div class="container-xxl testimonials my-5 py-5 bg-dark wow zoomIn">
+        <div class="container-fluid py-5 bg-dark" style="margin-top: 100px">
+            <div class="container">
+                <div class="owl-carousel testimonial-carousel py-5">
 
+                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate delectus illum iste omnis porro ut.</p>
+                            <div class="d-flex align-item-center">
+                                     <img src="" alt="" class="img-fluid flex-shrink-0 rounded" style="width: 50px; height: 50px">
+                                <div class="ps-3">
+                                    <h6 class="fw-bold mb-1">client name</h6>
+                                    <small>profe</small>
+                                </div>
+                            </div>
+
+                                <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mn-n1"></i>
+                    </div>
+
+
+                </div>
+            </div>
         </div>
 
 <!-----JS-------------------------------------------------------------------------------------------------------------->
@@ -547,10 +565,8 @@
      <!--    ---OWL-CAROUSEL----->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
 
-    <!--    ----JS----->
-    <script>
-
-    </script>
+    <!--    ----JS-TESTIMONIALS---->
+    <script src="script.js" type="text/javascript"></script>
 
 </body>
 </html>
