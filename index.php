@@ -539,7 +539,7 @@
                     <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate delectus illum iste omnis porro ut.</p>
                             <div class="d-flex align-item-center">
-                                     <img src="Imgs/Logo_1.png" alt="" class="img-fluid flex-shrink-0 rounded" style="width: 50px; height: 50px">
+                                     <img src="Imgs/Background_1.jpg" alt="" class="img-fluid flex-shrink-0 rounded" style="width: 50px; height: 50px">
                                 <div class="ps-3">
                                     <h6 class="fw-bold mb-1 text-white">client name</h6>
                                     <small>profe</small>
@@ -566,7 +566,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
 
     <!--    ----JS-TESTIMONIALS---->
-    <script src="script.js" type="text/javascript"></script>
+    <script type="text/javascript"></script>
 
 </body>
 </html>
