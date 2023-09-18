@@ -292,7 +292,7 @@
 
 <!-----ROOMS-SECTION--------------------------------------------------------------------------------------------------->
 
-      <div class="container-xxl py-5 bg-white" id="rooms" style="margin-top: 100px; background: var(--white);">
+      <div class="container-xxl py-5 bg-white" id="rooms" style="margin-top: 50px; background: var(--white);">
             <div class="container" style="background: var(--white); margin-bottom: 100px;">
                 <div class="text-center wow fadeIn bg-white">
                     <h6 class="section-title text-center text-primary text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px; background: var(--white);">
@@ -422,8 +422,8 @@
 
 <!-----SERVICES-SECTION------------------------------------------------------------------------------------------------>
 
-        <div class="container-xxl py-5" style="background: var(--body); margin-top: 40px">
-            <div class="container pt-5" style="margin-bottom: 50px">
+        <div class="container-xxl py-3" style="background: var(--body);">
+            <div class="container pt-5" style="margin-bottom: 150px">
                 <div class="text-center wow fadeInUp pt-5">
                     <h6 class="section-title text-center text-primary text-uppercase" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px;">
                         our services
@@ -532,27 +532,33 @@
 
 <!-----TESTIMONIAL-SECTION--------------------------------------------------------------------------------------------->
 
-        <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" style="margin-top: 100px">
-            <div class="container">
-                <div class="owl-carousel testimonial-carousel py-5">
+<!--        <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" style="margin-top: 100px">-->
+<!--            <div class="container">-->
+<!--                <div class="owl-carousel testimonial-carousel py-5">-->
+<!---->
+<!--                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">-->
+<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate delectus illum iste omnis porro ut.</p>-->
+<!--                            <div class="d-flex align-item-center">-->
+<!--                                     <img src="Imgs/Background_1.jpg" alt="" class="img-fluid flex-shrink-0 rounded" style="width: 50px; height: 50px">-->
+<!--                                <div class="ps-3">-->
+<!--                                    <h6 class="fw-bold mb-1 text-white">client name</h6>-->
+<!--                                    <small>profe</small>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!---->
+<!--                                <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mn-n1"></i>-->
+<!--                    </div>-->
+<!---->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
 
-                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate delectus illum iste omnis porro ut.</p>
-                            <div class="d-flex align-item-center">
-                                     <img src="Imgs/Background_1.jpg" alt="" class="img-fluid flex-shrink-0 rounded" style="width: 50px; height: 50px">
-                                <div class="ps-3">
-                                    <h6 class="fw-bold mb-1 text-white">client name</h6>
-                                    <small>profe</small>
-                                </div>
-                            </div>
+      <section id="testimonial" style="margin-top: 0px; background-color: #0f172b;">
+          <div class="container">
 
-                                <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mn-n1"></i>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
+          </div>
+      </section>
 
 <!-----JS-------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
