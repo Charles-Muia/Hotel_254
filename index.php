@@ -562,8 +562,8 @@
 
 <!-----TEAM-SECTION---------------------------------------------------------------------------------------------------->
 
-        <div class="container-xxl py-5 bg-white" style="background: #ffffff !important; ;margin-top: 50px" >
-            <div class="container bg-white">
+        <div class="container-xxl py-5 bg-white " style="background: #ffffff !important; margin-top: 50px; margin-bottom: 150px">
+            <div class="container bg-white pb-5">
                 <div class="text-center wow fadeInUp bg-white">
                     <h6 class="section-title text-center text-primary text-uppercase bg-white" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px;">
                         our team
@@ -590,7 +590,7 @@
 
                                     <div class="text-center p-4 mt-3">
                                         <h5 class="mb-0 fw-bold">John Doe</h5>
-                                            <small>Director - Kajiado</small>
+                                            <small>Manager - Food & Drinks</small>
                                     </div>
                             </div>
                         </div>
@@ -609,7 +609,7 @@
 
                                 <div class="text-center p-4 mt-3">
                                     <h5 class="mb-0 fw-bold">Jane Doe</h5>
-                                    <small>Director - Kajiado</small>
+                                    <small>Lead - Customer Experience</small>
                                 </div>
                             </div>
                         </div>
@@ -647,7 +647,7 @@
 
                                 <div class="text-center p-4 mt-3">
                                     <h5 class="mb-0 fw-bold">John Doe</h5>
-                                    <small>Director - Kajiado</small>
+                                    <small>Director - Finance / Accounts</small>
                                 </div>
                             </div>
                         </div>
