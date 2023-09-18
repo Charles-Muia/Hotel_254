@@ -580,7 +580,7 @@
                             <div class="rounded shadow overflow-hidden">
                                 <div class="position-relative">
                                     <img src="Imgs/Team_4.png" alt="" class="img-fluid">
-                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center rounded">
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-facebook"></i></a>
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-twitter"></i></a>
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-linkedin"></i></a>
@@ -599,7 +599,7 @@
                             <div class="rounded shadow overflow-hidden">
                                 <div class="position-relative">
                                     <img src="Imgs/Team_3.png" alt="" class="img-fluid">
-                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center rounded">
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-facebook"></i></a>
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-twitter"></i></a>
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-linkedin"></i></a>
@@ -618,7 +618,7 @@
                             <div class="rounded shadow overflow-hidden">
                                 <div class="position-relative">
                                     <img src="Imgs/Team_2.png" alt="" class="img-fluid">
-                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center rounded">
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-facebook"></i></a>
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-twitter"></i></a>
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-linkedin"></i></a>
@@ -637,7 +637,7 @@
                             <div class="rounded shadow overflow-hidden">
                                 <div class="position-relative">
                                     <img src="Imgs/Team_1.png" alt="" class="img-fluid">
-                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center rounded">
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-facebook"></i></a>
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-twitter"></i></a>
                                         <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-linkedin"></i></a>
