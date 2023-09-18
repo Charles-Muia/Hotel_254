@@ -560,6 +560,102 @@
           </div>
       </section>
 
+<!-----TEAM-SECTION---------------------------------------------------------------------------------------------------->
+
+        <div class="container-xxl py-5 bg-white" style="background: #ffffff !important; ;margin-top: 50px" >
+            <div class="container bg-white">
+                <div class="text-center wow fadeInUp bg-white">
+                    <h6 class="section-title text-center text-primary text-uppercase bg-white" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px;">
+                        our team
+                    </h6>
+
+                    <h1 class="mb-4 pb-5 bg-white" style="font-family: var(--Montserrat); font-size: 30px;">
+                        <span class="text-primary text-capitalize"> </span> Immerse In Comfort <br> With Our <span class="text-primary text-capitalize" style="background: #0f172b; word-spacing: 10px; letter-spacing: 2px">Staff</span>
+                    </h1>
+                </div>
+
+                    <div class="row g-4 pb-3">
+
+                        <div class="col-lg-3 col-md-6 wow fadeInUp">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img src="Imgs/Team_4.png" alt="" class="img-fluid">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-facebook"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-twitter"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-linkedin"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-whatsapp"></i></a>
+                                    </div>
+                                </div>
+
+                                    <div class="text-center p-4 mt-3">
+                                        <h5 class="mb-0 fw-bold">John Doe</h5>
+                                            <small>Director - Kajiado</small>
+                                    </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 wow fadeInUp">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img src="Imgs/Team_3.png" alt="" class="img-fluid">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-facebook"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-twitter"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-linkedin"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-whatsapp"></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="text-center p-4 mt-3">
+                                    <h5 class="mb-0 fw-bold">Jane Doe</h5>
+                                    <small>Director - Kajiado</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 wow fadeInUp">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img src="Imgs/Team_2.png" alt="" class="img-fluid">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-facebook"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-twitter"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-linkedin"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-whatsapp"></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="text-center p-4 mt-3">
+                                    <h5 class="mb-0 fw-bold">Jane Doe</h5>
+                                    <small>Principal Director - Hotel_254</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 wow fadeInUp">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img src="Imgs/Team_1.png" alt="" class="img-fluid">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-facebook"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-square-twitter"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-linkedin"></i></a>
+                                        <a href="" class="btn btn-square text-danger btn-white mx-1"><i class="fa-brands fa-whatsapp"></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="text-center p-4 mt-3">
+                                    <h5 class="mb-0 fw-bold">John Doe</h5>
+                                    <small>Director - Kajiado</small>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+            </div>
+        </div>
+
 <!-----JS-------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js"></script>
