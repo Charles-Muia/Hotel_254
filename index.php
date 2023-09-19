@@ -87,6 +87,17 @@
                                     </div>
 
                                 </div>
+
+                                   <div class="col-lg-5 px-5 text-end">
+                                       <div class="d-inline-flex align-items-center py-2">
+                                           <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-facebook"></i></a>
+                                           <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-x"></i></a>
+                                           <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-instagram"></i></a>
+                                           <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-linkedin"></i></a>
+                                           <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-threads"></i></a>
+                                       </div>
+                                   </div>
+
                             </div>
                         </div>
                 </div>
