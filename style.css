@@ -207,6 +207,7 @@
 /*-----TESTIMONIALS-SECTION-CSS---------------------------------------------------------------------------------------*/
 
     #testimonial {
-        height: 50vh;
+        /*height: 50vh;*/
         width: 100%;
+        background: white;
     }

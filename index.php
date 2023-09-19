@@ -553,17 +553,15 @@
 <!--                </div>-->
 <!--            </div>-->
 <!--        </div>-->
+<!---->
+      <section id="testimonial" style="background: linear-gradient(rgba(15,23,43,0.7), rgba(15,23,43,0.1)), url(Imgs/Banner.png); overflow: hidden ">
 
-      <section id="testimonial" style="margin-top: 0px; background-color: #0f172b;">
-          <div class="container">
-
-          </div>
       </section>
 
 <!-----TEAM-SECTION---------------------------------------------------------------------------------------------------->
 
-        <div class="container-xxl py-5 bg-white " style="background: #ffffff !important; margin-top: 50px; margin-bottom: 150px">
-            <div class="container bg-white pb-5">
+        <div class="container-xxl py-5 bg-white " style="background: #ffffff !important; margin-top: 70px; margin-bottom: 150px">
+            <div class="container bg-white pb-5" style="margin-bottom: 40px">
                 <div class="text-center wow fadeInUp bg-white">
                     <h6 class="section-title text-center text-primary text-uppercase bg-white" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px;">
                         our team
