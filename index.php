@@ -64,6 +64,20 @@
 
 <!-----NAV-BAR-SECTION------------------------------------------------------------------------------------------------->
 
+            <div class="container-fluid bg-dark px-0">
+                <div class="row gx-0">
+                    <div class="col-lg-3 bg-dark d-none d-lg-block">
+                        <a href="" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-item-center justify-content-center">
+                            <h1 class="m-0 text-dark text-uppercase pt-3 pb-3" style="font-family: var(--Raleway); font-weight: 600; font-size: 30px">Hotel 254</h1>
+                        </a>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+
 
 <!-----HEADER-SECTION-------------------------------------------------------------------------------------------------->
 
@@ -554,7 +568,7 @@
 <!--            </div>-->
 <!--        </div>-->
 <!---->
-      <section id="testimonial" style="background: linear-gradient(rgba(15,23,43,0.7), rgba(15,23,43,0.1)), url(Imgs/Banner.png); overflow: hidden ">
+      <section id="testimonial" style="background: linear-gradient(rgba(15,23,43,0.7), rgba(15,23,43,0.1)), url(Imgs/Banner.png); z-index: 1">
 
       </section>
 
