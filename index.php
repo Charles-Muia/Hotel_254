@@ -72,9 +72,23 @@
                         </a>
                     </div>
 
+                        <div class="col-lg-9">
+                            <div class="row gx-0 bg-white d-none d-lg-flex">
+                                <div class="col-lg-7 px-5 text-start">
 
+                                    <div class="h-100 d-inline-flex align-items-center py-2 me-4">
+                                        <i class="fa fa-envelope text-primary me-2"></i>
+                                            <p class="mb-0">info@hotel254.com</p>
+                                    </div>
 
+                                    <div class="h-100 d-inline-flex align-items-center py-2">
+                                        <i class="fa fa-phone text-primary me-2"></i>
+                                        <p class="mb-0">info@hotel254.com</p>
+                                    </div>
 
+                                </div>
+                            </div>
+                        </div>
                 </div>
             </div>
 
