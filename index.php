@@ -65,7 +65,7 @@
 <!-----NAV-BAR-SECTION------------------------------------------------------------------------------------------------->
 
             <div class="container-fluid bg-dark px-0">
-                <div class="row gx-0 pt-2 pb-2">
+                <div class="row gx-0 pt-3 pb-3">
                     <div class="col-lg-3 bg-dark d-none d-lg-block">
                         <a href="" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-item-center justify-content-center">
                             <h1 class="m-0 text-dark text-uppercase" style="font-family: var(--Raleway); font-weight: 600; font-size: 30px">Hotel 254</h1>
@@ -76,7 +76,7 @@
                             <div class="row gx-0 bg-white d-none d-lg-flex">
                                 <div class="col-lg-7 px-5 text-start">
 
-                                    <div class="h-100 d-inline-flex align-items-center py-2 me-2">
+                                    <div class="h-100 d-inline-flex align-items-center py-2 me-2" style="margin-left: 50px;">
                                         <i class="fa fa-envelope text-danger me-2"></i>
                                             <p class="mb-0" style="font-size: 13px">info@hotel254.com</p>
                                     </div>
@@ -101,10 +101,31 @@
 
                             </div>
 
-                                <nav class="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0">
+                                <nav class="navbar navbar-expand-lg bg-dark navbar-light p-3 p-lg-0">
                                     <a href="" class="navbar-brand d-block d-lg-none">
                                         <h1 class="m-0 text-primary text-uppercase">Hotel 254</h1>
                                     </a>
+
+                                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                                        <span class="navbar-toggler-icon"></span>
+                                    </button>
+
+                                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                                            <div class="navbar-nav nv-bar mr-auto py-0 text-uppercase" style="font-size: 15px; font-family: var(--Heebo-font); margin-right: 35px; padding: 25px 0px; font-weight: 600; outline: none;">
+                                                <a href="#" class="nav-item nav-link active" style="color: #dc143d">Home</a>
+                                                <a href="#about" class="nav-item nav-link">About</a>
+                                                <a href="#" class="nav-item nav-link">Rooms</a>
+                                                <a href="#" class="nav-item nav-link">Services</a>
+                                                <a href="#" class="nav-item nav-link">Team</a>
+                                                <a href="#" class="nav-item nav-link">Contact Us</a>
+                                            </div>
+
+                                            <a href="" class="btn btn-danger rounded-0 py-4 px-md-5 d-none d-lg-block text-uppercase">
+                                                Unwind in Style <i class="fa fa-arrow-right ms-3" style="background: transparent"></i>
+                                            </a>
+
+                                        </div>
+
                                 </nav>
                         </div>
                 </div>
@@ -700,7 +721,11 @@
             </div>
         </div>
 
-<!-----JS-------------------------------------------------------------------------------------------------------------->
+
+<!-----NEWS-SECTION---------------------------------------------------------------------------------------------------->
+
+
+        <!-----JS-------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js"></script>
 
