@@ -65,10 +65,10 @@
 <!-----NAV-BAR-SECTION------------------------------------------------------------------------------------------------->
 
             <div class="container-fluid bg-dark px-0">
-                <div class="row gx-0">
+                <div class="row gx-0 pt-2 pb-2">
                     <div class="col-lg-3 bg-dark d-none d-lg-block">
                         <a href="" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-item-center justify-content-center">
-                            <h1 class="m-0 text-dark text-uppercase pt-3 pb-3" style="font-family: var(--Raleway); font-weight: 600; font-size: 30px">Hotel 254</h1>
+                            <h1 class="m-0 text-dark text-uppercase" style="font-family: var(--Raleway); font-weight: 600; font-size: 30px">Hotel 254</h1>
                         </a>
                     </div>
 
@@ -100,6 +100,12 @@
                                    </div>
 
                             </div>
+
+                                <nav class="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0">
+                                    <a href="" class="navbar-brand d-block d-lg-none">
+                                        <h1 class="m-0 text-primary text-uppercase">Hotel 254</h1>
+                                    </a>
+                                </nav>
                         </div>
                 </div>
             </div>
