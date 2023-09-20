@@ -724,8 +724,20 @@
 
 <!-----NEWS-SECTION---------------------------------------------------------------------------------------------------->
 
+        <div class="container newsletter mt-5 wow fadeIn">
+            <div class="row justify-content-center">
+                <div class="col-lg-10 border rounded p-1">
+                    <div class="border rounded text-center p-5">
+                        <h4 class="mb-4"> Subscribe Our <span class="text-danger text-uppercase">Newsletter</span>
 
-        <!-----JS-------------------------------------------------------------------------------------------------------------->
+                        </h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+<!-----JS-------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js"></script>
 
