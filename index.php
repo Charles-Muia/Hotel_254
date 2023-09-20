@@ -76,14 +76,14 @@
                             <div class="row gx-0 bg-white d-none d-lg-flex">
                                 <div class="col-lg-7 px-5 text-start">
 
-                                    <div class="h-100 d-inline-flex align-items-center py-2 me-4">
-                                        <i class="fa fa-envelope text-primary me-2"></i>
-                                            <p class="mb-0">info@hotel254.com</p>
+                                    <div class="h-100 d-inline-flex align-items-center py-2 me-2">
+                                        <i class="fa fa-envelope text-danger me-2"></i>
+                                            <p class="mb-0" style="font-size: 13px">info@hotel254.com</p>
                                     </div>
 
                                     <div class="h-100 d-inline-flex align-items-center py-2">
-                                        <i class="fa fa-phone text-primary me-2"></i>
-                                        <p class="mb-0">info@hotel254.com</p>
+                                        <i class="fa fa-phone text-danger me-2"></i>
+                                            <p class="mb-0" style="font-size: 13px">+254724245254</p>
                                     </div>
 
                                 </div>
@@ -95,6 +95,7 @@
                                            <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-instagram"></i></a>
                                            <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-linkedin"></i></a>
                                            <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-threads"></i></a>
+                                           <a href="" class="me-3" style="color: #0f172b"><i class="fab fa-youtube"></i></a>
                                        </div>
                                    </div>
 
