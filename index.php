@@ -731,7 +731,7 @@
                         <h4 class="mb-4 pt-5" style="font-family: var(--Montserrat)"> Subscribe To Our <span class="text-danger text-uppercase bg-dark"> &nbsp;Newsletter&nbsp;</span></h4>
 
                             <div class="mx-auto position-relative" style="max-width: 400px;">
-                                <input type="text" class="form-control w-90 py-3 ps-4 pe-5" placeholder="Enter Your Name">
+                                <input type="text" class="form-control w-90 py-3 ps-4 pe-5" placeholder="Enter Your Email Address">
                                     <button class="btn bg-dark btn-danger rounded py-2 px-4 position-absolute top-0 end-0 mt-2 me-2 text-uppercase" style="font-family: var(--Ubuntu)">Submit</button>
                             </div>
 
@@ -746,10 +746,28 @@
             <div class="container pb-5 pt-5 bg-dark">
                 <div class="row g-5 bg-dark">
                     <div class="col-md-6 col-lg-4 bg-dark">
-                        <div class="bg-dark rounded p-4" style="margin-top: 80px">
-                            <a href=""><h1 class="text-white text-uppercase mb-3 bg-dark" style="font-family: var(--Montserrat); font-size: 20px">Hotel 254</h1></a>
+                        <div class="bg-dark rounded p-4">
+                            <a href=""><h1 class="text-white text-uppercase mb-3 bg-dark" style="font-family: var(--Raleway); font-size: 30px; font-weight: 600">Hotel 254</h1></a>
+                                <p class="text-white mb-0 bg-dark pt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut blanditiis ea et ipsam laudantium pariatur perferendis praesentium quasi reprehenderit sint.</p>
                         </div>
                     </div>
+
+                        <div class="col-md-6 col-lg-3 bg-dark" style="margin-top: 80px">
+                            <h6 class="section-title text-starts bg-dark text-danger text-uppercase mb-4">contact</h6>
+                            <p class="mb-2 text-white bg-dark"><i class="fa fa-map-marker-alt me-3" style="color: var(--white); background: none; border-radius: 50%"></i> 35471 GPO, Nairobi, KE</p>
+                            <p class="mb-2 text-white bg-dark"><i class="fa fa-map-marker-alt me-3" style="color: var(--white); background: none"></i> 35471 GPO, Nairobi, KE</p>
+                            <p class="mb-2 text-white bg-dark"><i class="fa fa-map-marker-alt me-3" style="color: var(--white); background: none"></i> 35471 GPO, Nairobi, KE</p>
+                            <p class="mb-2 text-white bg-dark"><i class="fa fa-map-marker-alt me-3" style="color: var(--white); background: none"></i> 35471 GPO, Nairobi, KE</p>
+
+                                <div class="d-flex pt-3 bg-dark text-white">
+                                    <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-facebook p-2" style="border-radius: 50%"></i></a>
+                                    <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-twitter p-2" style="border-radius: 50%"></i></a>
+                                    <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-linkedin p-2" style="border-radius: 50%"></i></a>
+                                    <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-threads p-2" style="border-radius: 50%"></i></a>
+                                    <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-youtube p-2" style="border-radius: 50%"></i></a>
+                                </div>
+                        </div>
+                    <hr>
                 </div>
             </div>
         </div>
