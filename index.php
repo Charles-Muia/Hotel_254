@@ -724,9 +724,9 @@
 
 <!-----NEWS-SECTION---------------------------------------------------------------------------------------------------->
 
-        <div class="container newsletter mt-5 wow fadeIn" style="margin-bottom: 100px; background: var(--white)">
+        <div class="container newsletter mt-5 wow fadeIn" style="margin-bottom: -50px; background: var(--white);">
             <div class="row justify-content-center" style="background: var(--white)">
-                <div class="col-lg-10 border rounded p-1">
+                <div class="col-lg-10 border rounded border-white p-1">
                     <div class="border rounded text-center p-5">
                         <h4 class="mb-4 pt-5" style="font-family: var(--Montserrat)"> Subscribe To Our <span class="text-danger text-uppercase bg-dark"> &nbsp;Newsletter&nbsp;</span></h4>
 
@@ -742,7 +742,17 @@
 
 <!-----FOOTER-SECTION-------------------------------------------------------------------------------------------------->
 
-
+        <div class="container-fluid bg-dark text-light footer wow fadeIn pt-5" style="margin-top: ">
+            <div class="container pb-5 pt-5 bg-dark">
+                <div class="row g-5 bg-dark">
+                    <div class="col-md-6 col-lg-4 bg-dark">
+                        <div class="bg-dark rounded p-4" style="margin-top: 80px">
+                            <a href=""><h1 class="text-white text-uppercase mb-3 bg-dark" style="font-family: var(--Montserrat); font-size: 20px">Hotel 254</h1></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 <!-----JS-------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
