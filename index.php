@@ -724,15 +724,24 @@
 
 <!-----NEWS-SECTION---------------------------------------------------------------------------------------------------->
 
-        <div class="container newsletter mt-5 wow fadeIn">
-            <div class="row justify-content-center">
+        <div class="container newsletter mt-5 wow fadeIn" style="margin-bottom: 100px; background: var(--white)">
+            <div class="row justify-content-center" style="background: var(--white)">
                 <div class="col-lg-10 border rounded p-1">
                     <div class="border rounded text-center p-5">
-                        <h4 class="mb-4"> Subscribe Our <span class="text-danger text-uppercase">Newsletter</span></h4>
+                        <h4 class="mb-4 pt-5" style="font-family: var(--Montserrat)"> Subscribe To Our <span class="text-danger text-uppercase bg-dark"> &nbsp;Newsletter&nbsp;</span></h4>
+
+                            <div class="mx-auto position-relative" style="max-width: 400px;">
+                                <input type="text" class="form-control w-90 py-3 ps-4 pe-5" placeholder="Enter Your Name">
+                                    <button class="btn bg-dark btn-danger rounded py-2 px-4 position-absolute top-0 end-0 mt-2 me-2 text-uppercase" style="font-family: var(--Ubuntu)">Submit</button>
+                            </div>
+
                     </div>
                 </div>
             </div>
         </div>
+
+<!-----FOOTER-SECTION-------------------------------------------------------------------------------------------------->
+
 
 
 <!-----JS-------------------------------------------------------------------------------------------------------------->
