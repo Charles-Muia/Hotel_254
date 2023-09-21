@@ -753,21 +753,48 @@
                     </div>
 
                         <div class="col-md-6 col-lg-3 bg-dark" style="margin-top: 80px">
-                            <h6 class="section-title text-starts bg-dark text-danger text-uppercase mb-4">contact</h6>
+                            <h6 class="section-title text-starts bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">contact</h6>
                             <p class="mb-2 text-white bg-dark"><i class="fa fa-map-marker-alt me-3" style="color: var(--white); background: none; border-radius: 50%"></i> 35471 GPO, Nairobi, KE</p>
                             <p class="mb-2 text-white bg-dark"><i class="fa fa-map-marker-alt me-3" style="color: var(--white); background: none"></i> 35471 GPO, Nairobi, KE</p>
                             <p class="mb-2 text-white bg-dark"><i class="fa fa-map-marker-alt me-3" style="color: var(--white); background: none"></i> 35471 GPO, Nairobi, KE</p>
                             <p class="mb-2 text-white bg-dark"><i class="fa fa-map-marker-alt me-3" style="color: var(--white); background: none"></i> 35471 GPO, Nairobi, KE</p>
 
                                 <div class="d-flex pt-3 bg-dark text-white">
-                                    <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-facebook p-2" style="border-radius: 50%"></i></a>
+                                    <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-facebook p-2" style="border-radius: 50%; display: flex; align-items: center; justify-content: center; transition: 0.3s"></i></a>
                                     <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-twitter p-2" style="border-radius: 50%"></i></a>
                                     <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-linkedin p-2" style="border-radius: 50%"></i></a>
                                     <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-threads p-2" style="border-radius: 50%"></i></a>
                                     <a href="" class="btn btn-outline-dark text-dark btn-social p-1" style="border-radius: 50%"><i class="fab fa-youtube p-2" style="border-radius: 50%"></i></a>
                                 </div>
                         </div>
-                    <hr>
+
+
+                                <div class="col-lg-5 col-md-12 bg-dark" style="margin-top: 75px">
+                                    <div class="row gy-5 g-4 bg-dark">
+
+                                        <div class="col-md-6 bg-dark">
+                                            <h6 class="section-title text-start bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">Company</h6>
+                                            <a class="btn btn-link below bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link below bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link" href="" style="display: block">About</a>
+                                            <a class="btn btn-link" href="" style="display: block">About</a>
+                                            <a class="btn btn-link" href="" style="display: block">About</a>
+                                            <a class="btn btn-link" href="" style="display: block">About</a>
+                                        </div>
+
+                                        <div class="col-md-6 bg-dark">
+                                            <h6 class="section-title text-start bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">Company</h6>
+                                            <a class="btn btn-link" href="">About</a>
+                                            <a class="btn btn-link" href="">About</a>
+                                            <a class="btn btn-link" href="">About</a>
+                                            <a class="btn btn-link" href="">About</a>
+                                            <a class="btn btn-link" href="">About</a>
+                                            <a class="btn btn-link" href="">About</a>
+                                        </div>
+
+                                    </div>
+                                </div>
+
                 </div>
             </div>
         </div>
