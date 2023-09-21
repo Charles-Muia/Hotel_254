@@ -627,7 +627,7 @@
 
 <!-----TEAM-SECTION---------------------------------------------------------------------------------------------------->
 
-        <div class="container-xxl py-5 bg-white " style="background: #ffffff !important; margin-top: 70px; margin-bottom: 150px">
+        <div class="container-xxl py-5 bg-white " style="background: #ffffff !important; margin-top: 70px; margin-bottom: 60px">
             <div class="container bg-white pb-5" style="margin-bottom: 40px">
                 <div class="text-center wow fadeInUp bg-white">
                     <h6 class="section-title text-center text-primary text-uppercase bg-white" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px;">
@@ -728,9 +728,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10 border rounded p-1">
                     <div class="border rounded text-center p-5">
-                        <h4 class="mb-4"> Subscribe Our <span class="text-danger text-uppercase">Newsletter</span>
-
-                        </h4>
+                        <h4 class="mb-4"> Subscribe Our <span class="text-danger text-uppercase">Newsletter</span></h4>
                     </div>
                 </div>
             </div>
