@@ -792,26 +792,24 @@
                                             <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">FAQ's</a>
                                         </div>
                                     </div>
+                                        <br>
                                 </div>
-
-                    <hr>
+                        <hr>
                 </div>
 
             </div>
                                 <div class="container pb-4 bg-dark">
-                                    <div class="copyright">
+                                    <div class="copyright bg-dark copy-right">
                                         <div class="row bg-dark">
                                             <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 bg-dark">
                                                 &copy; <a href=""class="border-bottom bg-dark" style="font-family: var(--Raleway); list-style: none; text-decoration: none";></a> 2023 &nbsp;|&nbsp; Hotel 254 &nbsp;|&nbsp; All Rights Reserved
                                                 <br> The Home of Happy Holidays.
                                             </div>
 
-                                                <div class="col-md-6 text-center text-md-end">
+                                                <div class="col-md-6 text-center text-md-end bg-dark">
                                                     <div class="footer-menu">
-                                                        <a href=""></a>
-                                                        
+                                                        <p class="bg-dark">Lorem ipsum | dolor sit amet, <br> consectetur adipisicing elit. Hic, temporibus!</p>
                                                     </div>
-
                                                 </div>
 
                                         </div>

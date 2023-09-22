@@ -242,3 +242,12 @@
         justify-content: center;
         display: flex;
     }
+
+    .footer .copy-right {
+        padding: 20px 0;
+        font-size: 15px;
+    }
+
+    .footer .copy-right .footer-menu {
+
+    }
