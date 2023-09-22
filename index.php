@@ -599,28 +599,6 @@
 
 <!-----TESTIMONIAL-SECTION--------------------------------------------------------------------------------------------->
 
-<!--        <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" style="margin-top: 100px">-->
-<!--            <div class="container">-->
-<!--                <div class="owl-carousel testimonial-carousel py-5">-->
-<!---->
-<!--                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">-->
-<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate delectus illum iste omnis porro ut.</p>-->
-<!--                            <div class="d-flex align-item-center">-->
-<!--                                     <img src="Imgs/Background_1.jpg" alt="" class="img-fluid flex-shrink-0 rounded" style="width: 50px; height: 50px">-->
-<!--                                <div class="ps-3">-->
-<!--                                    <h6 class="fw-bold mb-1 text-white">client name</h6>-->
-<!--                                    <small>profe</small>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!---->
-<!--                                <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mn-n1"></i>-->
-<!--                    </div>-->
-<!---->
-<!---->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!---->
       <section id="testimonial" style="background: linear-gradient(rgba(15,23,43,0.7), rgba(15,23,43,0.1)), url(Imgs/Banner.png); z-index: 1">
 
       </section>
