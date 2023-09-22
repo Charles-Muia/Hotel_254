@@ -242,7 +242,3 @@
         justify-content: center;
         display: flex;
     }
-
-    .btn .btn-link {
-        display: none;
-    }

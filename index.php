@@ -773,23 +773,23 @@
                                     <div class="row gy-5 g-4 bg-dark">
 
                                         <div class="col-md-6 bg-dark pt-1">
-                                            <h6 class="section-title text-start bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">Company</h6>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <h6 class="section-title text-start bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">Links</h6>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Home</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">About Us</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Rooms</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Services</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Team</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Contact Us</a>
                                         </div>
 
                                         <div class="col-md-6 bg-dark pt-1">
-                                            <h6 class="section-title text-start bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">Company</h6>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <h6 class="section-title text-start bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">Facilities</h6>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Awards</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Booking</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">T&C's</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Newsletter</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">Blog</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s; font-family: var(--Raleway)">FAQ's</a>
                                         </div>
                                     </div>
                                 </div>
@@ -798,7 +798,25 @@
                 </div>
 
             </div>
-            <hr>
+                                <div class="container pb-4 bg-dark">
+                                    <div class="copyright">
+                                        <div class="row bg-dark">
+                                            <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 bg-dark">
+                                                &copy; <a href=""class="border-bottom bg-dark" style="font-family: var(--Raleway); list-style: none; text-decoration: none";></a> 2023 &nbsp;|&nbsp; Hotel 254 &nbsp;|&nbsp; All Rights Reserved
+                                                <br> The Home of Happy Holidays.
+                                            </div>
+
+                                                <div class="col-md-6 text-center text-md-end">
+                                                    <div class="footer-menu">
+                                                        <a href=""></a>
+                                                        
+                                                    </div>
+
+                                                </div>
+
+                                        </div>
+                                    </div>
+                                </div>
         </div>
 
 
