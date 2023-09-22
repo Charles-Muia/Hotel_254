@@ -724,7 +724,7 @@
 
 <!-----NEWS-SECTION---------------------------------------------------------------------------------------------------->
 
-        <div class="container newsletter mt-5 wow fadeIn" style="margin-bottom: -50px; background: var(--white);">
+        <div class="container newsletter mt-5 wow fadeIn" style="margin-bottom: 150px; background: var(--white);">
             <div class="row justify-content-center" style="background: var(--white)">
                 <div class="col-lg-10 border rounded border-white p-1">
                     <div class="border rounded text-center p-5">
@@ -742,7 +742,7 @@
 
 <!-----FOOTER-SECTION-------------------------------------------------------------------------------------------------->
 
-        <div class="container-fluid bg-dark text-light footer wow fadeIn pt-5" style="margin-top: ">
+        <div class="container-fluid bg-dark text-light footer wow fadeIn pt-5" style="margin-top: 150px ">
             <div class="container pb-5 pt-5 bg-dark">
                 <div class="row g-5 bg-dark">
                     <div class="col-md-6 col-lg-4 bg-dark">
@@ -772,32 +772,35 @@
                                 <div class="col-lg-5 col-md-12 bg-dark" style="margin-top: 75px">
                                     <div class="row gy-5 g-4 bg-dark">
 
-                                        <div class="col-md-6 bg-dark">
+                                        <div class="col-md-6 bg-dark pt-1">
                                             <h6 class="section-title text-start bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">Company</h6>
-                                            <a class="btn btn-link below bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link below bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
-                                            <a class="btn btn-link" href="" style="display: block">About</a>
-                                            <a class="btn btn-link" href="" style="display: block">About</a>
-                                            <a class="btn btn-link" href="" style="display: block">About</a>
-                                            <a class="btn btn-link" href="" style="display: block">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
                                         </div>
 
-                                        <div class="col-md-6 bg-dark">
+                                        <div class="col-md-6 bg-dark pt-1">
                                             <h6 class="section-title text-start bg-dark text-danger text-uppercase mb-4" style="font-family: var(--Raleway)">Company</h6>
-                                            <a class="btn btn-link" href="">About</a>
-                                            <a class="btn btn-link" href="">About</a>
-                                            <a class="btn btn-link" href="">About</a>
-                                            <a class="btn btn-link" href="">About</a>
-                                            <a class="btn btn-link" href="">About</a>
-                                            <a class="btn btn-link" href="">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
+                                            <a class="btn btn-link bg-dark" href="" style="display: block; padding: 0; text-align: left; color: var(--white); margin-bottom: 5px; transition: 0.3s">About</a>
                                         </div>
-
                                     </div>
                                 </div>
 
+                    <hr>
                 </div>
+
             </div>
+            <hr>
         </div>
+
 
 <!-----JS-------------------------------------------------------------------------------------------------------------->
     <!--    ---BOOTSTRAP-5-JS----->
