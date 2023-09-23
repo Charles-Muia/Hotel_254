@@ -718,6 +718,15 @@
             </div>
         </div>
 
+
+<!-----CONTACT-SECTION-------------------------------------------------------------------------------------------------->
+
+        <div class="contact_us">
+            <div class="contact_us_title">
+                <h2>Get In Touch</h2>
+            </div>
+        </div>
+
 <!-----FOOTER-SECTION-------------------------------------------------------------------------------------------------->
 
         <div class="container-fluid bg-dark text-light footer wow fadeIn pt-5" style="margin-top: 150px ">
