@@ -605,7 +605,7 @@
 
 <!-----TEAM-SECTION---------------------------------------------------------------------------------------------------->
 
-        <div class="container-xxl py-5 bg-white " style="background: #ffffff !important; margin-top: 70px; margin-bottom: 60px">
+        <div class="container-xxl py-5 bg-white " style="background: #ffffff !important; margin-top: 70px; margin-bottom: 40px">
             <div class="container bg-white pb-5" style="margin-bottom: 40px">
                 <div class="text-center wow fadeInUp bg-white">
                     <h6 class="section-title text-center text-primary text-uppercase bg-white" style="font-family: var(--Montserrat); font-size: 25px;letter-spacing: 1px;">
