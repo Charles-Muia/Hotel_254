@@ -261,7 +261,10 @@
             padding: 40px;
             background: var(--white);
             box-shadow: 0 5px 35px rgba(0,0,0,0.15);
+        }
 
+        .box h3 {
+            background: transparent;
         }
 
 

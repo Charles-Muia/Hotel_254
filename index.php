@@ -727,7 +727,7 @@
             </div>
                 <div class="box">
                     <div class="contact form">
-                        <h3></h3>
+                        <h3> Send a Message</h3>
                     </div>
                     <div class="contact info"></div>
                     <div class="contact map"></div>
