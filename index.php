@@ -726,7 +726,9 @@
                 <h2 style="background: transparent; font-family: var(--Montserrat); text-transform: uppercase">Get In Touch</h2>
             </div>
                 <div class="box">
-                    <div class="contact form"></div>
+                    <div class="contact form">
+                        <h3></h3>
+                    </div>
                     <div class="contact info"></div>
                     <div class="contact map"></div>
                 </div>
