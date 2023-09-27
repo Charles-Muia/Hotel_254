@@ -721,16 +721,16 @@
 
 <!-----CONTACT-SECTION-------------------------------------------------------------------------------------------------->
 
-        <div class="contact_us" style="position: relative; width: 100%; padding: 40px 100px; background: #c4c4c4c4;">
+        <div class="contact_us" style="position: relative; width: 100%; padding: 40px 100px; background: #c4c4c4c4; margin-top: 150px">
             <div class="contact_us_title" style="display: flex; justify-content: center; align-items: center; font-size: 2rem; background: transparent">
                 <h2 style="background: transparent; font-family: var(--Montserrat); text-transform: uppercase">Get In Touch</h2>
             </div>
                 <div class="box">
-                    <div class="contact form">
+                    <div class="contact form cont-f">
                         <h3> Send a Message</h3>
                     </div>
-                    <div class="contact info"></div>
-                    <div class="contact map"></div>
+                    <div class="contact info cont-1"></div>
+                    <div class="contact map cont-m"></div>
                 </div>
         </div>
 

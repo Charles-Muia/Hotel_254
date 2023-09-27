@@ -233,15 +233,15 @@
             background: #0f172b;
         }
 
-        .form {
+        .cont-f {
             grid-area: form;
         }
 
-        .info {
+        .cont-i {
             grid-area: info;
         }
 
-        .map {
+        .cont-m {
             grid-area: map;
         }
 
