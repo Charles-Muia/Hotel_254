@@ -267,6 +267,42 @@
             background: transparent;
         }
 
+        .form-Box {
+            position: relative;
+            width: 100%;
+        }
+
+        .row-cont {
+            display: flex;
+            gap: 25px;
+        }
+
+        .input-cont {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 15px;
+            width: 50%;
+        }
+
+        .form-Box .row-100 .input-cont {
+            width: 100%;
+        }
+
+        .input-cont span {
+            margin-top: 10px;
+            margin-bottom: 5px;
+            color: #dc143d;
+            font-weight: 600;
+            font-family: var(--Roboto);
+        }
+
+        .input-cont input {
+            padding: 10px;
+            /*font-size: 1.2rem;*/
+            outline: none;
+            border: 1px solid #333;
+        }
+
 
 /*-----FOOTER-SECTION-CSS---------------------------------------------------------------------------------------------*/
 

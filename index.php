@@ -721,15 +721,56 @@
 
 <!-----CONTACT-SECTION-------------------------------------------------------------------------------------------------->
 
-        <div class="contact_us" style="position: relative; width: 100%; padding: 40px 100px; background: #c4c4c4c4; margin-top: 150px">
+        <div class="contact_us pb-5" style="position: relative; width: 100%; padding: 40px 100px; background: #c4c4c4c4; margin-top: 150px">
             <div class="contact_us_title" style="display: flex; justify-content: center; align-items: center; font-size: 2rem; background: transparent">
                 <h2 style="background: transparent; font-family: var(--Montserrat); text-transform: uppercase">Get In Touch</h2>
             </div>
-                <div class="box">
+                <div class="box bg-light">
                     <div class="contact form cont-f">
-                        <h3> Send a Message</h3>
+                        <h3 class="pb-3"> Send a Message</h3>
+                        <form action="">
+                            <div class="form-Box pb-5">
+                                <div class="row50  row-cont">
+                                    <div class="inputBox input-cont">
+                                        <span>First Name</span>
+                                         <input type="text" placeholder="">
+                                    </div>
+                                    <div class="inputBox input-cont">
+                                        <span>Last Name</span>
+                                        <input type="text" placeholder="">
+                                    </div>
+                                </div>
+
+                                <div class="row50 row-cont">
+                                    <div class="inputBox input-cont">
+                                        <span>Email Address</span>
+                                        <input type="text" placeholder="">
+                                    </div>
+                                    <div class="inputBox input-cont">
+                                        <span>Mobile No.</span>
+                                        <input type="text" placeholder="">
+                                    </div>
+                                </div>
+
+                                <div class="row100 row-100">
+                                    <div class="inputBox input-cont">
+                                        <span>Message</span>
+                                        <textarea placeholder=""></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="row100 row-100">
+                                    <div class="inputBox input-cont">
+                                        <input type="submit" value="SEND">
+                                    </div>
+                                </div>
+
+                            </div>
+                        </form>
                     </div>
+
                     <div class="contact info cont-1"></div>
+
                     <div class="contact map cont-m"></div>
                 </div>
         </div>
