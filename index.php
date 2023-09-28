@@ -721,7 +721,7 @@
 
 <!-----CONTACT-SECTION-------------------------------------------------------------------------------------------------->
 
-        <div class="contact_us pb-5" style="position: relative; width: 100%; padding: 40px 100px; background: #c4c4c4c4; margin-top: 150px">
+        <div class="contact_us cont-u pb-5" style="position: relative; width: 100%; padding: 40px 100px; background: #c4c4c4c4; margin-top: 150px">
             <div class="contact_us_title" style="display: flex; justify-content: center; align-items: center; font-size: 2rem; background: transparent">
                 <h2 class="pt-5 pb-5" style="background: transparent; font-family: var(--Montserrat); text-transform: uppercase">Get In Touch</h2>
             </div>
