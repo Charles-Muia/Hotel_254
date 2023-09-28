@@ -728,34 +728,35 @@
                 <div class="box pb-5 mb-5 bg-transparent">
                     <div class="contact form cont-f">
                         <h3 class="pb-3"> Send a Message</h3>
-                        <form action="">
+
+                        <form action="" class="bg-dark" >
                             <div class="form-Box pb-5">
                                 <div class="row50  row-cont">
                                     <div class="inputBox input-cont">
-                                        <span>First Name</span>
-                                         <input type="text" placeholder="">
+                                        <span style="margin-left: 10px">First Name</span>
+                                         <input type="text" placeholder="" style="margin-left: 2px">
                                     </div>
                                     <div class="inputBox input-cont">
-                                        <span>Last Name</span>
-                                        <input type="text" placeholder="">
+                                        <span style="margin-left: 10px">Last Name</span>
+                                        <input type="text" placeholder="" style="margin-right: 2px">
                                     </div>
                                 </div>
 
                                 <div class="row50 row-cont">
                                     <div class="inputBox input-cont">
-                                        <span>Email Address</span>
-                                        <input type="text" placeholder="">
+                                        <span style="margin-left: 10px">Email Address</span>
+                                        <input type="text" placeholder="" style="margin-left: 2px">
                                     </div>
                                     <div class="inputBox input-cont">
-                                        <span>Mobile No.</span>
-                                        <input type="text" placeholder="">
+                                        <span style="margin-left: 10px">Mobile No.</span>
+                                        <input type="text" placeholder="" style="margin-right: 2px">
                                     </div>
                                 </div>
 
                                 <div class="row100 row-100">
                                     <div class="inputBox input-cont">
-                                        <span>Message</span>
-                                        <textarea placeholder=""></textarea>
+                                        <span style="margin-left: 10px">Message</span>
+                                        <textarea placeholder="" style="margin: 2px"></textarea>
                                     </div>
                                 </div>
 
