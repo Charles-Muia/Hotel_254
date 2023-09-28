@@ -237,6 +237,11 @@
             grid-area: form;
         }
 
+        .cont-f h3 {
+            font-weight: 600;
+            font-family: var(--Raleway);
+        }
+
         .cont-i {
             grid-area: info;
         }
@@ -313,6 +318,10 @@
             padding: 14px 15px;
         }
 
+        .input-cont ::placeholder {
+            color: var(--dark);
+        }
+
         .row-100 textarea {
             padding: 10px;
             /*font-size: 1.2rem;*/
@@ -323,6 +332,88 @@
             margin-bottom: 10px;
         }
 
+        .cont-1 h3 {
+            text-transform: capitalize;
+            font-family: var(--Raleway);
+            font-weight: 600;
+        }
+
+
+        .cont-1 .infoBox div {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .cont-1 .infoBox div span {
+            min-width: 40px;
+            height: 40px;
+            color: Var(--dark);
+            background: var(--white);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            margin-left: 5px;
+            font-size: 1.3rem;
+            margin-right: 15px;
+        }
+
+        .cont-1 .infoBox div span:hover {
+            background: var(--red);
+            cursor: pointer;
+            color: var(--white);
+        }
+
+        .cont-1 .infoBox div span i {
+            background: transparent;
+        }
+
+        .cont-1 .infoBox div span i:hover {
+            background: transparent;
+            color: var(--white);
+        }
+
+        .cont-1 .infoBox div p {
+            color: var(--dark);
+            font-weight: 600;
+            font-family: var(--Raleway);
+        }
+
+        .cont-1 .infoBox div a {
+            color: var(--dark);
+            font-weight: 600;
+            font-family: var(--Raleway);
+            text-decoration: none;
+        }
+
+        .listing {
+            margin-top: 50px;
+            display: flex;
+        }
+
+        .listing li {
+            list-style: none;
+            margin-right: 15px;
+        }
+
+        .listing li a {
+            color: #0f172b;
+            font-size: 2rem;
+        }
+
+        .listing li a:hover {
+            color: var(--red);
+        }
+
+        .cont-m {
+            padding: 0;
+        }
+
+        .cont-m iframe {
+            width: 100%;
+            height: 100%;
+        }
 
 /*-----FOOTER-SECTION-CSS---------------------------------------------------------------------------------------------*/
 
@@ -351,3 +442,6 @@
     .footer .copy-right .footer-menu {
 
     }
+
+
+/*-----RESPONSIVE-CSS-------------------------------------------------------------------------------------------------*/

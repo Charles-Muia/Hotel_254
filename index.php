@@ -770,9 +770,37 @@
                         </form>
                     </div>
 
-                    <div class="contact info cont-1"></div>
+                    <div class="contact info cont-1">
+                        <h3 class="pb-3">contact info</h3>
+                        <div class="infoBox">
+                                    <div class="pt-3">
+                                        <span><i class='bx bxs-map'></i></span>
+                                        <p class="pt-3">Global Arena, +254 Nairobi KE</p>
+                                    </div>
+                                        <div>
+                                            <span><i class='bx bxs-envelope' ></i></span>
+                                            <a href="#">info@hotel254.com</a>
+                                        </div>
+                                    <div>
+                                        <span><i class='bx bxs-phone-incoming' ></i></span>
+                                        <a href="#">+254720 000 000</a>
+                                    </div>
+                                <ul class="cont-list listing pb-5">
+                                    <li><a href=""><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa-brands fa-threads"></i></a></li>
+                                    <li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa-brands fa-linkedin"></i></a></li>
+                                    <li><a href=""><i class="fa-brands fa-x"></i></a></li>
+                                </ul>
+                        </div>
+                    </div>
 
-                    <div class="contact map cont-m"></div>
+                    <div class="contact map cont-m">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9197299.612702228!2d19.16054425000001!3d55.75095439999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54a50b315e573%3A0xa886bf5a3d9b2e68!2sThe%20Moscow%20Kremlin!5e0!3m2!1ssw!2ske!4v1695898442862!5m2!1ssw!2ske"
+                                style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                    </div>
+
                 </div>
         </div>
 
